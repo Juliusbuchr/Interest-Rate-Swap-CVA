@@ -7,7 +7,7 @@ This repository contains a Python script to compute the **unilateral Credit Valu
 ## Features
 
 - **Hull-White Model Simulation**: Short rate simulation under the Hull-White model.
-- **Yield Curve Calibration**: Curve fitting based on EURIBOR, FRA, and swap market rates using Hermite interpolation.
+- **Yield Curve Calibration**: Curve fitting based on CIBOR, FRA, and swap market rates using Hermite interpolation.
 - **Exposure Profiles**: Computes Expected Future Value (EFV), Expected Exposure (EE), Expected Negative Exposure (ENE), and Potential Future Exposure (PFE).
 - **CVA Computation**: Uses default probabilities inferred from CDS spreads to calculate unilateral CVA for the swap.
 
